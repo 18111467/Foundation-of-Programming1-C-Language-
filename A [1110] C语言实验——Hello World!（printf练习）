@@ -1,0 +1,18 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Hello World!" << endl;
+    return 0;
+}
+
+
+/***************************************************
+User name: jk160834王文豪
+Result: Accepted
+Take time: 0ms
+Take Memory: 184KB
+Submit time: 2018-09-25 18:17:06
+****************************************************/
